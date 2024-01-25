@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/471329637540110239/fcd978b5946e4f7d96f9cf295e8244b9/artifacts
+end_time: 1706182002074
+entry_point_name: ''
+experiment_id: '471329637540110239'
+lifecycle_stage: active
+run_id: fcd978b5946e4f7d96f9cf295e8244b9
+run_name: tasteful-eel-622
+run_uuid: fcd978b5946e4f7d96f9cf295e8244b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706181992576
+status: 3
+tags: []
+user_id: kosmo
